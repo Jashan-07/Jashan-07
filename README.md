@@ -41,4 +41,4 @@ I'm a passionate Frontend Developer with strong skills in React, JavaScript, HTM
 
 ---
 
-*"Building clean, user-friendly digital experiences one line of code at a time."*
+> *"Building clean, user-friendly digital experiences one line of code at a time."*
